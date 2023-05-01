@@ -17,9 +17,6 @@ This project uses Fanuc's HMI SDK includes some objects that allow us to emulate
   Here is a video demostration of the project.
   [![This video explains better](https://img.youtube.com/vi/cicCClrokPw/0.jpg)](https://www.youtube.com/watch?v=cicCClrokPw)
 
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2eURFLeHW8o/0.jpg)](https://www.youtube.com/watch?v=2eURFLeHW8o)
-  
 ## Prerequisites  
     
   Before you begin, ensure you have download and copy the two files to you fr: drive on the robot.  
