@@ -31,7 +31,7 @@ This project uses Fanuc's HMI SDK includes some objects that allow us to emulate
 4) Select option OPTION 723 $TX_SCREEN  
 5) We are selecting option 4, don't use the option 1, because it is reserved for Fanuc's internal use.  
 6) Change this values according to your projects values.  
-7) Go back to the option 5, and select the option 4 to see if the new infornation for the HMI page is there.  
+7) Go back to the step 5, and check if the new infornation for the HMI page is there.  
    
 ![adding page to system variables](./images/SETUPWEB.png)  
   
