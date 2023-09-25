@@ -1,4 +1,4 @@
-# SIMULATION I/O BOX FOR THE FANUC'S ROBOT
+# I/O SIMULATION BOX FOR FANUC'S ROBOT
 
 ## Table of contents
 - [Introduction](#introduction)   
@@ -11,7 +11,7 @@
   
 ## Introduction  
   
-This project uses Fanuc's HMI SDK includes some objects that allow us to emulates inputs and outputs for a Fanuc robot, making it possible to turn ON a digital output or show a input being ON or OFF, for testing and development purposes.  
+This project uses Fanuc's HMI SDK, which includes some web objects that allow us to emulates inputs and outputs for a Fanuc robot, making it possible to turn ON a digital output or show an input being ON or OFF, for testing and development purposes.  
   
 ## Video demostration  
   Here is a video demostration of the project.
